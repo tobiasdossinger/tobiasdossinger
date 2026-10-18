@@ -1,112 +1,57 @@
 
-<div align="center">
+# Tobias Dossinger
 
-# TOBIAS DOSSINGER
+Full Stack Engineer working on web applications, backend services, and side projects.
 
-**FULL STACK ENGINEER · PRODUCT BUILDER · CYCLING ENTHUSIAST**
-
-Building digital products at the intersection of software, people and the physical world.
-
-`WEB DEVELOPMENT` &nbsp; `PRODUCT ENGINEERING` &nbsp; `IoT`
-
-</div>
+Most of my work is around TypeScript, Vue/Nuxt, and backend development. Outside of work, I like building small tools and experimenting with hardware.
 
 ---
 
-### 01 — NOW
+## Current projects
 
-I'm a Full Stack Engineer who enjoys turning ideas into working products. My work spans frontend experiences, backend systems, developer tooling and connected devices.
+### letsride.today
+A side project around road cycling and ride planning.
 
-Currently exploring how thoughtful software and simple tools can make everyday experiences better.
+Working on the web application and the features that make planning and discovering rides easier.
 
----
+`TypeScript` · `Web Development` · `Cycling`
 
-### 02 — IN PROGRESS
+### Toolbox
+A collection of CLI tools for my everyday workflow.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Currently focused on small utilities for notes, to-dos, and standups.
 
-**01 / letsride.today**
-
-### Ride more. Discover more.
-
-A personal cycling project focused on making it easier to plan rides and discover new routes.
-
-`CYCLING` `WEB APP`
-
-</td>
-<td width="50%" valign="top">
-
-**02 / Toolbox**
-
-### Less friction. Better workflows.
-
-A collection of small terminal tools for everyday development workflows, from notes and to-dos to standups.
-
-`CLI` `PRODUCTIVITY`
-
-</td>
-</tr>
-</table>
+`CLI` · `Developer Tools` · `Productivity`
 
 ---
 
-### 03 — SELECTED WORK
+## Other projects
 
-<table>
-<tr>
-<td width="100%">
+### Percy
+A prototype for assistive navigation. Uses a camera and computer vision to detect obstacles and communicates feedback through vibration.
 
-**PERCY** &nbsp; / &nbsp; ASSISTIVE TECHNOLOGY
+`Python` · `OpenCV` · `Raspberry Pi` · `ESP32`
 
-A navigation prototype exploring computer vision and haptic feedback to help blind people better understand their surroundings.
+### Mentacy
+An IoT project using physical boxes, RFID, servos, and LEDs to build an interactive experience.
 
-`Python` `OpenCV` `Raspberry Pi` `ESP32`
+`C++` · `Arduino` · `RFID` · `IoT`
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+### GymMe
+An Alexa skill for a voice-based fitness experience.
 
-**MENTACY** &nbsp; / &nbsp; CONNECTED EXPERIENCES
-
-An IoT concept exploring the relationship between physical objects, connected devices and meaningful interactions.
-
-`C++` `Arduino` `RFID` `IoT`
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**GYMME** &nbsp; / &nbsp; CONVERSATIONAL INTERFACES
-
-A voice-driven fitness experience built around an Alexa skill.
-
-`JavaScript` `Alexa Skills`
-
-</td>
-</tr>
-</table>
+`JavaScript` · `Alexa Skills`
 
 ---
 
-### 04 — THE TOOLKIT
+## Tech I use
 
-| AREA | TECHNOLOGIES |
-|:---|:---|
-| **Frontend** | TypeScript · Vue · Nuxt · React · Next.js |
-| **Backend** | Kotlin · Node.js · NestJS · REST APIs |
-| **Infrastructure** | Docker · GitHub Actions · pnpm · MySQL |
-| **Interests** | E-mobility · IoT · Developer Experience |
+**Frontend:** TypeScript, Vue.js, Nuxt, React, Next.js
+
+**Backend:** Kotlin, Node.js, NestJS
+
+**Tools & infrastructure:** Docker, GitHub Actions, pnpm, MySQL
 
 ---
 
-<div align="center">
-
-**BUILD THINGS THAT MATTER. KEEP MAKING THEM BETTER.**
-
-<sub>DESIGNED WITH CURIOSITY · BUILT THROUGH ITERATION</sub>
-
-</div>
+Outside of coding: road cycling, self-hosting, and figuring out how things work.
