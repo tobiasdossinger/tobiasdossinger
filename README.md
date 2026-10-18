@@ -2,11 +2,11 @@
 <table>
   <tr>
     <td width="170" valign="top">
-      <img src="avatar.png" width="150" alt="Pixel art portrait of Tobias" />
+      <img src="avatar.png" width="150" alt="Tobias pixel art avatar" style="border-radius: 18px;" />
     </td>
     <td valign="top">
       <h1>Tobias Dossinger</h1>
-      <p>Full Stack Engineer</p>
+      <p><strong>Full Stack Engineer</strong></p>
       <p>
         I build web applications, backend services, and developer tools.
         I'm particularly interested in e-mobility, IoT, and projects that
