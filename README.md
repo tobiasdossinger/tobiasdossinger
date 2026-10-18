@@ -1,25 +1,33 @@
-#### 👨‍💻 What I'm currently working on
+
+<img src="avatar.png" width="120" align="left" style="border-radius: 16px; margin-right: 20px;" alt="Tobias pixel-art avatar" />
+
+# Hi, I'm Tobias 👋
+
+I'm a Full Stack Engineer working on web applications, backend services, and developer tools.
+
+Interested in e-mobility, IoT, open source, and building things that solve real problems.
+
+<br clear="left" />
+
+### 🔭 Currently working on
 
 - **letsride.today** — A side project focused on cycling and discovering new routes.
 - **Toolbox** — CLI tools for notes, to-dos, and standups.
-- **Full-stack development** — Building web applications, backend services, and integrations.
 
-#### 🌱 Some projects I've worked on
+### 🌱 Projects
 
 - **Percy** — An assistive navigation prototype using computer vision and haptic feedback.
-- **Mentacy** — An IoT project combining connected objects, RFID, and physical interactions.
-- **GymMe** — An Alexa skill exploring voice-based interaction for fitness.
+- **Mentacy** — An IoT project combining connected objects, RFID, and physical interaction.
+- **GymMe** — An Alexa skill for voice-based fitness experiences.
 
-#### 🔧 Open source
+### 🤝 Open source
 
-I enjoy contributing to open-source projects, improving tools and libraries, and learning from other developers.
+- **[Magic Patterns Catalog](https://github.com/magicpatterns/catalog)** — One of the early contributors to an open-source catalog of React component libraries and design systems.
 
-#### 🛠️ Technologies I use
+### 🛠️ Tech stack
 
-- **Frontend:** TypeScript, Vue.js, Nuxt, React, Next.js
-- **Backend:** Kotlin, Node.js, NestJS
-- **Infrastructure:** Docker, GitHub Actions, MySQL
+TypeScript · Vue.js · Nuxt · React · Kotlin · Node.js · Docker
 
-#### 🚴 Outside of coding
+### 🚴 Outside of coding
 
-Usually on my road bike, working on something at home, or experimenting with a new idea.
+Road cycling, self-hosting, and tinkering with new ideas.
