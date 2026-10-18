@@ -1,13 +1,20 @@
 
-<div align="center">
-  <img src="avatar.png" width="150" alt="Pixel art portrait of Tobias" />
-</div>
-
-### Hi there 👋
-
-I'm Tobias, a Full Stack Engineer working on web applications, backend services, and developer tools.
-
-I enjoy building things, figuring out how systems fit together, and working across the stack. I'm particularly interested in e-mobility, IoT, and projects that connect software with the physical world.
+<table>
+  <tr>
+    <td width="170" valign="top">
+      <img src="avatar.png" width="150" alt="Pixel art portrait of Tobias" />
+    </td>
+    <td valign="top">
+      <h1>Tobias Dossinger</h1>
+      <p>Full Stack Engineer</p>
+      <p>
+        I build web applications, backend services, and developer tools.
+        I'm particularly interested in e-mobility, IoT, and projects that
+        connect software with the physical world.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 👨‍💻 What I'm currently working on
 
@@ -23,14 +30,13 @@ I enjoy building things, figuring out how systems fit together, and working acro
 
 ### 🔧 Open source
 
-I enjoy contributing to open-source projects, improving tools and libraries, and learning from the work of other developers.
+I enjoy contributing to open-source projects, improving tools and libraries, and learning from other developers.
 
 ### 🛠️ Technologies I use
 
 - **Frontend:** TypeScript, Vue.js, Nuxt, React, Next.js
 - **Backend:** Kotlin, Node.js, NestJS
 - **Infrastructure:** Docker, GitHub Actions, MySQL
-- **Other interests:** IoT, self-hosting, developer tooling
 
 ### 🚴 Outside of coding
 
