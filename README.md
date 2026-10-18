@@ -1,36 +1,31 @@
 
-<div>
-  <img src="avatar.png" width="120" align="left" alt="Tobias pixel-art avatar" style="border-radius: 16px; margin-right: 20px;" />
+### Hi there 👋
 
-  <h3>Hi, I'm Tobias 👋</h3>
-  <p>
-    I'm a Full Stack Engineer working on web applications, backend services, and developer tools.
-    Interested in e-mobility, IoT, open source, and building things that solve real problems.
-  </p>
-</div>
+I'm a Full Stack Engineer working on web applications, backend services, and developer tools.
 
-<br clear="left" />
+I'm interested in modern cloud-native technologies, e-mobility, and IoT — especially connecting the physical and digital worlds. I enjoy taking ownership of ideas, building useful things, and continuously improving how software is made.
 
-<h3>🔭 Currently working on</h3>
-<ul>
-  <li><strong>letsride.today</strong> — A side project focused on cycling and discovering new routes.</li>
-  <li><strong>Toolbox</strong> — CLI tools for notes, to-dos, and standups.</li>
-</ul>
+I also like contributing to open source and exploring ideas outside of work, from cycling projects to self-hosted services.
 
-<h3>🌱 Projects</h3>
-<ul>
-  <li><strong>Percy</strong> — An assistive navigation prototype using computer vision and haptic feedback.</li>
-  <li><strong>Mentacy</strong> — An IoT project combining connected objects, RFID, and physical interaction.</li>
-  <li><strong>GymMe</strong> — An Alexa skill for voice-based fitness experiences.</li>
-</ul>
+#### 👷 What I'm currently working on
 
-<h3>🤝 Open source</h3>
-<ul>
-  <li><a href="https://github.com/magicpatterns/catalog"><strong>Magic Patterns Catalog</strong></a> — One of the early contributors to an open-source catalog of React component libraries and design systems.</li>
-</ul>
+* [letsride.today](https://letsride.today) — A side project around cycling and discovering new routes.
+* Toolbox — CLI tools for notes, to-dos, and standups.
 
-<h3>🛠️ Tech stack</h3>
-<p>TypeScript · Vue.js · Nuxt · React · Kotlin · Node.js · Docker</p>
+#### 🌱 My latest projects
 
-<h3>🚴 Outside of coding</h3>
-<p>Road cycling, self-hosting, and tinkering with new ideas.</p>
+* [Percy](https://github.com/tobiasdossinger/Percy) — An assistive navigation prototype using computer vision and haptic feedback. ![Last commit](https://img.shields.io/github/last-commit/tobiasdossinger/Percy?label=updated&style=flat-square)
+* [Mentacy](https://github.com/tobiasdossinger/Mentacy) — An IoT project combining connected objects, RFID, and physical interaction. ![Last commit](https://img.shields.io/github/last-commit/tobiasdossinger/Mentacy?label=updated&style=flat-square)
+* [GymMe](https://github.com/tobiasdossinger/AlexaSkill-GymMe) — An Alexa skill for voice-based fitness experiences. ![Last commit](https://img.shields.io/github/last-commit/tobiasdossinger/AlexaSkill-GymMe?label=updated&style=flat-square)
+
+#### 🤝 Open source
+
+* [Magic Patterns Catalog](https://github.com/magicpatterns/catalog) — One of the early contributors to this open-source catalog of React component libraries and design systems.
+
+#### 🛠️ Technologies I enjoy working with
+
+TypeScript, Vue.js, Nuxt, React, Kotlin, Node.js, and Docker.
+
+#### 🚴 Outside of coding
+
+Road cycling, self-hosting, and tinkering with new ideas.
