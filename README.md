@@ -1,13 +1,13 @@
-
+<div class="flex">
 <img src="avatar.png" width="120" align="left" style="border-radius: 16px; margin-right: 20px;" alt="Tobias pixel-art avatar" />
-
-# Hi, I'm Tobias 👋
-
-I'm a Full Stack Engineer working on web applications, backend services, and developer tools.
-
-Interested in e-mobility, IoT, open source, and building things that solve real problems.
-
-<br clear="left" />
+  <div>
+    <h3>Hi, I'm Tobias 👋</h3>
+    <p>
+      I'm a Full Stack Engineer working on web applications, backend services, and developer tools. Interested in e-mobility, IoT, open source, and building things that solve real problems.
+    </p>
+  </div>
+</div>
+<br></br>
 
 ### 🔭 Currently working on
 
