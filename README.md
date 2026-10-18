@@ -1,57 +1,33 @@
 
-# Tobias Dossinger
+### Hi there 👋
 
-Full Stack Engineer working on web applications, backend services, and side projects.
+I'm Tobias, a Full Stack Engineer working on web applications, backend services, and developer tools.
 
-Most of my work is around TypeScript, Vue/Nuxt, and backend development. Outside of work, I like building small tools and experimenting with hardware.
+I enjoy building things from scratch, figuring out how systems fit together, and working across the stack. I'm particularly interested in e-mobility, IoT, and projects that connect software with the physical world.
 
----
+### 👨‍💻 What I'm currently working on
 
-## Current projects
+- **letsride.today** — A side project around cycling and discovering new routes.
+- **Toolbox** — Small CLI tools for notes, to-dos, and standups.
+- **Full-stack development** — Building web applications, backend services, and integrations.
 
-### letsride.today
-A side project around road cycling and ride planning.
+### 🌱 Some projects I've worked on
 
-Working on the web application and the features that make planning and discovering rides easier.
+- **Percy** — An assistive navigation prototype using computer vision and haptic feedback.
+- **Mentacy** — An IoT project combining connected objects, RFID, and physical interactions.
+- **GymMe** — An Alexa skill exploring voice-based interaction for fitness.
 
-`TypeScript` · `Web Development` · `Cycling`
+### 🔧 Open source
 
-### Toolbox
-A collection of CLI tools for my everyday workflow.
+I enjoy contributing to open source, learning from other developers, and improving the tools and libraries I use in my own projects.
 
-Currently focused on small utilities for notes, to-dos, and standups.
+### 🛠️ Technologies I use
 
-`CLI` · `Developer Tools` · `Productivity`
+- **Frontend:** TypeScript, Vue.js, Nuxt, React
+- **Backend:** Kotlin, Node.js, NestJS
+- **Infrastructure:** Docker, GitHub Actions, MySQL
+- **Other interests:** IoT, self-hosting, developer tooling
 
----
+### 🚴 Outside of coding
 
-## Other projects
-
-### Percy
-A prototype for assistive navigation. Uses a camera and computer vision to detect obstacles and communicates feedback through vibration.
-
-`Python` · `OpenCV` · `Raspberry Pi` · `ESP32`
-
-### Mentacy
-An IoT project using physical boxes, RFID, servos, and LEDs to build an interactive experience.
-
-`C++` · `Arduino` · `RFID` · `IoT`
-
-### GymMe
-An Alexa skill for a voice-based fitness experience.
-
-`JavaScript` · `Alexa Skills`
-
----
-
-## Tech I use
-
-**Frontend:** TypeScript, Vue.js, Nuxt, React, Next.js
-
-**Backend:** Kotlin, Node.js, NestJS
-
-**Tools & infrastructure:** Docker, GitHub Actions, pnpm, MySQL
-
----
-
-Outside of coding: road cycling, self-hosting, and figuring out how things work.
+Usually on my road bike, working on something at home, or experimenting with a new idea.
