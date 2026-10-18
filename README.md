@@ -1,20 +1,26 @@
 
-<table>
-  <tr>
-    <td width="170" valign="top">
-      <img src="avatar.png" width="150" alt="Tobias pixel art avatar" style="border-radius: 18px;" />
-    </td>
-    <td valign="top">
-      <h1>Tobias Dossinger</h1>
-      <p><strong>Full Stack Engineer</strong></p>
-      <p>
-        I build web applications, backend services, and developer tools.
-        I'm particularly interested in e-mobility, IoT, and projects that
-        connect software with the physical world.
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img
+    src="avatar.png"
+    width="150"
+    align="left"
+    style="border-radius: 18px; margin-right: 24px;"
+    alt="Tobias pixel art avatar"
+  />
+
+  <h1>Tobias Dossinger</h1>
+
+  <p><strong>Full Stack Engineer</strong></p>
+
+  <p>
+    I build web applications, backend services, and developer tools.
+    I'm particularly interested in e-mobility, IoT, and projects that
+    connect software with the physical world.
+  </p>
+</div>
+
+<br clear="left" />
+
 
 ### 👨‍💻 What I'm currently working on
 
