@@ -1,38 +1,51 @@
+
 # Tobias Dossinger
 
-### Full Stack Engineer · Building for the web and beyond
+**Full Stack Engineer · Software · Product Development**
 
-I build modern web applications, backend services, and cloud-native systems. I'm particularly interested in e-mobility, IoT, and connecting the physical and digital worlds through software.
-
-<p align="center">
-  <a href="https://tobiasdossinger.com/">
-    <img src="https://img.shields.io/badge/Portfolio-tobiasdossinger.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+I build digital experiences that fit users' needs, from web applications and developer tools to connected systems.
 
 ---
 
-### Tech stack
+## Current projects
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+### letsride.today
+A cycling-focused web application for planning rides and exploring new routes.
 
-### Explore
-
-- 🌐 [Personal website & portfolio](https://tobiasdossinger.com/)
-- 💻 [My repositories](https://github.com/tobiasdossinger?tab=repositories)
-- 📌 [Selected projects](https://github.com/tobiasdossinger?tab=repositories)
+### Toolbox
+A collection of small terminal tools for daily notes, to-dos, and standups.
 
 ---
 
-<p align="center">
-  <i>Always learning, building, and improving.</i>
-</p>
+## Selected projects
+
+### Percy
+An assistive navigation prototype exploring computer vision and haptic feedback to help blind people navigate their surroundings.
+
+*Python · OpenCV · Raspberry Pi · ESP32*
+
+### Mentacy
+An interactive connected-device concept combining software and physical components to create shared experiences.
+
+*C++ · Arduino · RFID · IoT*
+
+### GymMe
+A conversational user interface built as an Alexa skill.
+
+*JavaScript · Alexa Skills*
+
+---
+
+## Engineering focus
+
+**Frontend**  
+TypeScript · Vue.js · Nuxt · React · Next.js
+
+**Backend**  
+Kotlin · Node.js · NestJS · APIs
+
+**Infrastructure & tooling**  
+Docker · GitHub Actions · pnpm · MySQL
+
+**Interests**  
+Developer experience · E-mobility · IoT · Cycling
