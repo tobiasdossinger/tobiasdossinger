@@ -1,19 +1,17 @@
 // Iterates over the projects in README.md and appends "updated x ago" to each one.
 //
-// Every item between these markers that links to a GitHub repo gets a <sub>(updated …)</sub> suffix,
-// based on the latest commit on the repo's default branch. Items use an escaped dash (\-) so GitHub shows
-// a literal dash instead of a bullet; a trailing <br> (line break between items) is kept:
+// Every list item between these markers that links to a GitHub repo gets an "(updated …)" suffix,
+// based on the latest commit on the repo's default branch:
 //   <!-- projects:start -->
-//   \- [Percy](https://github.com/tobiasdossinger/Percy) — Description.<br>
+//   - [Percy](https://github.com/tobiasdossinger/Percy) - Description. (updated 2 years ago)
 //   <!-- projects:end -->
 
 import { readFile, writeFile } from "node:fs/promises";
 
 const README = "README.md";
 const BLOCK = /(<!--\s*projects:start\s*-->)([\s\S]*?)(<!--\s*projects:end\s*-->)/g;
-const PROJECT = /^\s*(?:\\-|[*-])\s+\[[^\]]+\]\(https:\/\/github\.com\/([\w.-]+\/[\w.-]+?)\/?\)/;
-const SUFFIX = /\s*<(small|sub)>\(?updated [^<]*\)?<\/\1>/;
-const BREAK = /\s*<br\s*\/?>\s*$/;
+const PROJECT = /^\s*[*-]\s+\[[^\]]+\]\(https:\/\/github\.com\/([\w.-]+\/[\w.-]+?)\/?\)/;
+const SUFFIX = /\s*(?:<(?:small|sub)>)?\(updated [^()]*\)(?:<\/(?:small|sub)>)?\s*$/;
 const DAY = 24 * 60 * 60 * 1000;
 
 async function lastCommitDate(repo) {
@@ -56,9 +54,7 @@ const updated = readme.replace(BLOCK, (_, start, body, end) => {
   const lines = body.split("\n").map((line) => {
     const match = line.match(PROJECT);
     if (!match) return line;
-    const br = BREAK.test(line) ? "<br>" : "";
-    const text = line.replace(BREAK, "").replace(SUFFIX, "");
-    return `${text} <sub>(updated ${timeAgo(dates[match[1]])})</sub>${br}`;
+    return `${line.replace(SUFFIX, "")} (updated ${timeAgo(dates[match[1]])})`;
   });
   return start + lines.join("\n") + end;
 });
