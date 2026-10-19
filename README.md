@@ -20,9 +20,9 @@ I also like contributing to open source and exploring ideas outside of work, fro
 #### 🌱 My projects from the past
 
 <!-- projects:start -->
-\- [Percy](https://github.com/tobiasdossinger/Percy) - An assistive navigation prototype using computer vision and haptic feedback. <sub>(updated 2 years ago)</sub><br>
-\- [Mentacy](https://github.com/tobiasdossinger/Mentacy) - An IoT project combining connected objects, RFID, and physical interaction. <sub>(updated 7 years ago)</sub><br>
-\- [GymMe](https://github.com/tobiasdossinger/AlexaSkill-GymMe) - An Alexa skill for voice-based fitness experiences. <sub>(updated 5 years ago)</sub>
+\- [Percy](https://github.com/tobiasdossinger/Percy) - An assistive navigation prototype using computer vision and haptic feedback. <small>(updated 2 years ago)</small><br>
+\- [Mentacy](https://github.com/tobiasdossinger/Mentacy) - An IoT project combining connected objects, RFID, and physical interaction. <small>(updated 7 years ago)</small><br>
+\- [GymMe](https://github.com/tobiasdossinger/AlexaSkill-GymMe) - An Alexa skill for voice-based fitness experiences. <small>(updated 5 years ago)</small>
 <!-- projects:end -->
 
 #### 🛠️ Technologies I enjoy working with
