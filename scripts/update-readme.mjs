@@ -3,7 +3,7 @@
 // Every list item between these markers that links to a GitHub repo gets a <sub>updated …</sub> suffix,
 // based on the latest commit on the repo's default branch:
 //   <!-- projects:start -->
-//   * [Percy](https://github.com/tobiasdossinger/Percy) — Description.
+//   - [Percy](https://github.com/tobiasdossinger/Percy) — Description.
 //   <!-- projects:end -->
 
 import { readFile, writeFile } from "node:fs/promises";
