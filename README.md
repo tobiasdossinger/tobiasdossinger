@@ -15,14 +15,14 @@ I also like contributing to open source and exploring ideas outside of work, fro
 
 #### 🤝 Open source
 
-* [Magic Patterns Catalog](https://github.com/magicpatterns/catalog) — One of the early contributors to this open-source catalog of React component libraries and design systems.
+- [Magic Patterns Catalog](https://github.com/magicpatterns/catalog) — One of the early contributors to this open-source catalog of React component libraries and design systems.
 
 #### 🌱 My projects from the past
 
 <!-- projects:start -->
-* [Percy](https://github.com/tobiasdossinger/Percy) — An assistive navigation prototype using computer vision and haptic feedback. <sub>updated 2 years ago</sub>
-* [Mentacy](https://github.com/tobiasdossinger/Mentacy) — An IoT project combining connected objects, RFID, and physical interaction. <sub>updated 7 years ago</sub>
-* [GymMe](https://github.com/tobiasdossinger/AlexaSkill-GymMe) — An Alexa skill for voice-based fitness experiences. <sub>updated 5 years ago</sub>
+- [Percy](https://github.com/tobiasdossinger/Percy) — An assistive navigation prototype using computer vision and haptic feedback. <sub>updated 2 years ago</sub>
+- [Mentacy](https://github.com/tobiasdossinger/Mentacy) — An IoT project combining connected objects, RFID, and physical interaction. <sub>updated 7 years ago</sub>
+- [GymMe](https://github.com/tobiasdossinger/AlexaSkill-GymMe) — An Alexa skill for voice-based fitness experiences. <sub>updated 5 years ago</sub>
 <!-- projects:end -->
 
 #### 🛠️ Technologies I enjoy working with
