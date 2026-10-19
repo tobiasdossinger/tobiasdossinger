@@ -1,5 +1,5 @@
 
-### Hi there 👋
+#### Hi there 👋
 
 I'm a Full Stack Engineer working on web applications, backend services, and developer tools.
 
@@ -9,9 +9,9 @@ I also like contributing to open source and exploring ideas outside of work, fro
 
 #### 👷 What I'm currently working on
 
-* [letsride.today](https://letsride.today) — A side project around cycling and discovering new routes.
-* [toolbox](https://toolbox.tobiasdossinger.com) — CLI tools for notes, to-dos, and standups.
-* Home automation — A self-hosted smart home setup on [CasaOS](https://casaos.io) with [Home Assistant](https://www.home-assistant.io), [Pi-hole](https://pi-hole.net), and [Beszel](https://beszel.dev) for monitoring.
+- [letsride.today](https://letsride.today) — A side project around cycling and discovering new routes.
+- [toolbox](https://toolbox.tobiasdossinger.com) — CLI tools for notes, to-dos, and standups.
+- Home automation — A self-hosted smart home setup on [CasaOS](https://casaos.io) with [Home Assistant](https://www.home-assistant.io), [Pi-hole](https://pi-hole.net), and [Beszel](https://beszel.dev) for monitoring.
 
 #### 🤝 Open source
 
