@@ -1,11 +1,11 @@
 
 ### Hi there 👋
 
-I'm a Full Stack Engineer working on web applications, backend services, and developer tools.
+I'm a Full Stack Engineer working across web applications, backend services, and developer tools.
 
-I'm interested in modern cloud-native technologies, e-mobility, and IoT — especially connecting the physical and digital worlds. I enjoy taking ownership of ideas, building useful things, and continuously improving how software is made.
+I'm interested in cloud-native technologies, e-mobility, and IoT, especially where software meets the physical world. I enjoy taking ideas from concept to implementation, building things that are genuinely useful, and finding better ways to develop software.
 
-I also like contributing to open source and exploring ideas outside of work, from cycling projects to self-hosted services.
+Outside of work, I like contributing to open source and working on my own projects, from cycling-related ideas to self-hosted services.
 
 #### 👷 What I'm currently working on
 
